@@ -6,7 +6,7 @@ Note: :book: stands for the online book page and :octocat: stands for the GitHub
 
 ---
 
-[ANNOUNCEMENT] Looking for awesome markdown goodies (e.g. libraries, services, editors, tools, etc.)? See the [Awesome Markdown List @ WriteKit](https://github.com/writekit/awesome-markdown). 
+[ANNOUNCEMENT] Looking for awesome markdown goodies (e.g. libraries, services, editors, tools, etc.)? See the [Awesome Markdown List](https://github.com/writekit/awesome-markdown). 
 
 ---
 
