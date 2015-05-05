@@ -21,6 +21,14 @@ Contributions welcome. Anything missing? Send in a pull request. Thanks.
 - [The Front-End Tooling Book :book:](http://tooling.github.io/book-of-modern-frontend-tooling) - [:octocat:](https://github.com/tooling/book-of-modern-frontend-tooling)
 - [Go Bootcamp :book:](http://www.golangbootcamp.com/book) - [:octocat:](https://github.com/GoBootcamp/book)
 - [Learn you an Agda (and achieve enlightenment) :book:](http://learnyouanagda.liamoc.net) - [:octocat:](https://github.com/liamoc/learn-you-an-agda)
+- [You Don't Know JS (Book Series) :octocat:](https://github.com/getify/You-Dont-Know-JS)
+    - [Up & Going :book:](https://github.com/getify/You-Dont-Know-JS/blob/master/up%20&%20going/README.md)
+    - [Scope & Closures :book:](https://github.com/getify/You-Dont-Know-JS/blob/master/scope%20&%20closures/README.md)
+    - [this & Object Prototypes :book:](https://github.com/getify/You-Dont-Know-JS/blob/master/this%20&%20object%20prototypes/README.md)
+    - [Types & Grammar :book:](https://github.com/getify/You-Dont-Know-JS/blob/master/types%20&%20grammar/README.md)
+    - [Async & Performance :book:](https://github.com/getify/You-Dont-Know-JS/blob/master/async%20&%20performance/README.md)
+    - [ES6 & Beyond :book:](https://github.com/getify/You-Dont-Know-JS/blob/master/es6%20&%20beyond/README.md)
+
 
 ## Open Data "Auto-Build" Book Examples
 
