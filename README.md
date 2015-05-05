@@ -20,7 +20,7 @@ Contributions welcome. Anything missing? Send in a pull request. Thanks.
 - [PHP - The Right Way :book:](http://www.phptherightway.com) - [:octocat:](https://github.com/codeguy/php-the-right-way)
 - [The Front-End Tooling Book :book:](http://tooling.github.io/book-of-modern-frontend-tooling) - [:octocat:](https://github.com/tooling/book-of-modern-frontend-tooling)
 - [Go Bootcamp :book:](http://www.golangbootcamp.com/book) - [:octocat:](https://github.com/GoBootcamp/book)
-
+- [Learn you an Agda (and achieve enlightenment) :book:](http://learnyouanagda.liamoc.net) - [:octocat:](https://github.com/liamoc/learn-you-an-agda)
 
 ## Open Data "Auto-Build" Book Examples
 
