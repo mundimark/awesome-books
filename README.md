@@ -15,14 +15,10 @@ Contributions welcome. Anything missing? Send in a pull request. Thanks.
 
 ## "Hand-Written" Book Examples
 
-Pro Git
-
-- [Pro Git, 1st Edition :book:](http://git-scm.com/book/en/v1) - [:octocat:](https://github.com/progit/progit/tree/master/en) by Scott Chacon; 2009
-- [Pro Git, 2nd Edition :book:](http://git-scm.com/book/en/v2) - [:octocat:](https://github.com/progit/progit2) by Scott Chacon, Ben Straub; 2014;  note: 1st edition in markdown, 2nd edition in asciidoc
-
- 
 - [Open Data Handbook, 2nd Edition :book:](http://opendatahandbook.org) - [:octocat:](https://github.com/okfn/opendatahandbook-v2) - note: 1st edition in reStructedText, 2nd edtion in markdown
-- [PHP - The Right Way :book:](http://www.phptherightway.com) - [:octocat:](https://github.com/codeguy/php-the-right-way)
+
+- [PHP: The Right Way :book:](http://www.phptherightway.com) - by Josh Lockhart, Phil Sturgeon - [:octocat:](https://github.com/codeguy/php-the-right-way)
+
 - [The Front-End Tooling Book :book:](http://tooling.github.io/book-of-modern-frontend-tooling) - [:octocat:](https://github.com/tooling/book-of-modern-frontend-tooling)
 - [Go Bootcamp :book:](http://www.golangbootcamp.com/book) - [:octocat:](https://github.com/GoBootcamp/book)
 - [Learn you an Agda (and achieve enlightenment) :book:](http://learnyouanagda.liamoc.net) - [:octocat:](https://github.com/liamoc/learn-you-an-agda)
@@ -33,6 +29,13 @@ Pro Git
     - [Types & Grammar :book:](https://github.com/getify/You-Dont-Know-JS/blob/master/types%20&%20grammar/README.md)
     - [Async & Performance :book:](https://github.com/getify/You-Dont-Know-JS/blob/master/async%20&%20performance/README.md)
     - [ES6 & Beyond :book:](https://github.com/getify/You-Dont-Know-JS/blob/master/es6%20&%20beyond/README.md)
+
+
+Pro Git
+
+- [Pro Git, 1st Edition :book:](http://git-scm.com/book/en/v1) - [:octocat:](https://github.com/progit/progit/tree/master/en) by Scott Chacon; 2009
+- [Pro Git, 2nd Edition :book:](http://git-scm.com/book/en/v2) - [:octocat:](https://github.com/progit/progit2) by Scott Chacon, Ben Straub; 2014;  note: 1st edition in markdown, 2nd edition in asciidoc
+
 
 
 ## Open Data "Auto-Build" Book Examples
