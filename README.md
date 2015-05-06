@@ -16,10 +16,9 @@ Contributions welcome. Anything missing? Send in a pull request. Thanks.
 ## "Hand-Written" Book Examples
 
 - [PHP: The Right Way :book:](http://www.phptherightway.com) - [:octocat:](https://github.com/codeguy/php-the-right-way) by Josh Lockhart, Phil Sturgeon
-
-- [The Front-End Tooling Book :book:](http://tooling.github.io/book-of-modern-frontend-tooling) - [:octocat:](https://github.com/tooling/book-of-modern-frontend-tooling)
-- [Go Bootcamp :book:](http://www.golangbootcamp.com/book) - [:octocat:](https://github.com/GoBootcamp/book)
-- [Learn you an Agda (and achieve enlightenment) :book:](http://learnyouanagda.liamoc.net) - [:octocat:](https://github.com/liamoc/learn-you-an-agda)
+- [The Front-End Tooling Book :book:](http://tooling.github.io/book-of-modern-frontend-tooling) - [:octocat:](https://github.com/tooling/book-of-modern-frontend-tooling) by Addy Osmani et al
+- [Go Bootcamp :book:](http://www.golangbootcamp.com/book) - [:octocat:](https://github.com/GoBootcamp/book) by Matt Aimonetti
+- [Learn you an Agda (and Achieve Enlightenment) :book:](http://learnyouanagda.liamoc.net) - [:octocat:](https://github.com/liamoc/learn-you-an-agda) by Liam O'Connor
 - [You Don't Know JS (Book Series) :octocat:](https://github.com/getify/You-Dont-Know-JS)
     - [Up & Going :book:](https://github.com/getify/You-Dont-Know-JS/blob/master/up%20&%20going/README.md)
     - [Scope & Closures :book:](https://github.com/getify/You-Dont-Know-JS/blob/master/scope%20&%20closures/README.md)
@@ -30,8 +29,8 @@ Contributions welcome. Anything missing? Send in a pull request. Thanks.
 
 Open Data Handbook by Open Knowledge Foundation (OKFN) 
 
-- [Open Data Handbook, 1st Edition :book:](http://opendatahandbook.org) - [:octocat:](https://github.com/okfn/opendatahandbook)
-- [Open Data Handbook, 2nd Edition :book:](http://new.opendatahandbook.org) - [:octocat:](https://github.com/okfn/opendatahandbook-v2) - note: 1st edition in reStructedText, 2nd edtion in markdown
+- [Open Data Handbook, 1st Edition :book:](http://opendatahandbook.org) - [:octocat:](https://github.com/okfn/opendatahandbook) by Rufus Pollock et al
+- [Open Data Handbook, 2nd Edition :book:](http://new.opendatahandbook.org) - [:octocat:](https://github.com/okfn/opendatahandbook-v2) by Rufus Pollock et al - note: 1st edition in reStructedText, 2nd edtion in markdown
 
 
 Pro Git
