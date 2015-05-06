@@ -19,7 +19,7 @@ Contributions welcome. Anything missing? Send in a pull request. Thanks.
 - [The Front-End Tooling Book :book:](http://tooling.github.io/book-of-modern-frontend-tooling) - [:octocat:](https://github.com/tooling/book-of-modern-frontend-tooling) by Addy Osmani et al
 - [Go Bootcamp :book:](http://www.golangbootcamp.com/book) - [:octocat:](https://github.com/GoBootcamp/book) by Matt Aimonetti
 - [Learn you an Agda (and Achieve Enlightenment) :book:](http://learnyouanagda.liamoc.net) - [:octocat:](https://github.com/liamoc/learn-you-an-agda) by Liam O'Connor
-- [You Don't Know JS (Book Series) :octocat:](https://github.com/getify/You-Dont-Know-JS)
+- [You Don't Know JS (Book Series) :octocat:](https://github.com/getify/You-Dont-Know-JS) by Kyle Simpson
     - [Up & Going :book:](https://github.com/getify/You-Dont-Know-JS/blob/master/up%20&%20going/README.md)
     - [Scope & Closures :book:](https://github.com/getify/You-Dont-Know-JS/blob/master/scope%20&%20closures/README.md)
     - [this & Object Prototypes :book:](https://github.com/getify/You-Dont-Know-JS/blob/master/this%20&%20object%20prototypes/README.md)
@@ -55,4 +55,5 @@ The awesome list is dedicated to the public domain. Use it as you please with no
 
 **Questions? Comments?**
 
-Send them along to the markdown-discuss mailing list. Thanks!
+Send them along to the [wwwmake mailing list](http://groups.google.com/group/wwwmake). Thanks!
+
