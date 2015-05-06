@@ -15,8 +15,13 @@ Contributions welcome. Anything missing? Send in a pull request. Thanks.
 
 ## "Hand-Written" Book Examples
 
+Pro Git
+
+- [Pro Git, 1st Edition :book:](http://git-scm.com/book/en/v1) - [:octocat:](https://github.com/progit/progit/tree/master/en) by Scott Chacon; 2009
+- [Pro Git, 2nd Edition :book:](http://git-scm.com/book/en/v2) - [:octocat:](https://github.com/progit/progit2) by Scott Chacon, Ben Straub; 2014;  note: 1st edition in markdown, 2nd edition in asciidoc
+
+ 
 - [Open Data Handbook, 2nd Edition :book:](http://opendatahandbook.org) - [:octocat:](https://github.com/okfn/opendatahandbook-v2) - note: 1st edition in reStructedText, 2nd edtion in markdown
-- [Pro Git, 2nd Edition :book:](http://git-scm.com/book) - [:octocat:](https://github.com/progit/progit2) - note: 1st edition in markdown, 2nd edition in asciidoc
 - [PHP - The Right Way :book:](http://www.phptherightway.com) - [:octocat:](https://github.com/codeguy/php-the-right-way)
 - [The Front-End Tooling Book :book:](http://tooling.github.io/book-of-modern-frontend-tooling) - [:octocat:](https://github.com/tooling/book-of-modern-frontend-tooling)
 - [Go Bootcamp :book:](http://www.golangbootcamp.com/book) - [:octocat:](https://github.com/GoBootcamp/book)
