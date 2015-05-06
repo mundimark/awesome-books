@@ -27,10 +27,10 @@ Contributions welcome. Anything missing? Send in a pull request. Thanks.
     - [Async & Performance :book:](https://github.com/getify/You-Dont-Know-JS/blob/master/async%20&%20performance/README.md)
     - [ES6 & Beyond :book:](https://github.com/getify/You-Dont-Know-JS/blob/master/es6%20&%20beyond/README.md)
 
-**Open Data Handbook** by Open Knowledge Foundation (OKFN) 
+**Open Data Handbook**
 
-- [Open Data Handbook, 1st Edition :book:](http://opendatahandbook.org) - [:octocat:](https://github.com/okfn/opendatahandbook) by Rufus Pollock et al
-- [Open Data Handbook, 2nd Edition :book:](http://new.opendatahandbook.org) - [:octocat:](https://github.com/okfn/opendatahandbook-v2) by Rufus Pollock et al - note: 1st edition in reStructedText, 2nd edtion in markdown
+- [Open Data Handbook, 1st Edition :book:](http://opendatahandbook.org) - [:octocat:](https://github.com/okfn/opendatahandbook) by Rufus Pollock et al (Open Knowledge Foundation (OKFN))
+- [Open Data Handbook, 2nd Edition :book:](http://new.opendatahandbook.org) - [:octocat:](https://github.com/okfn/opendatahandbook-v2) by Rufus Pollock et al (Open Knowledge Foundation (OKFN)) - note: 1st edition in reStructedText, 2nd edtion in markdown
 
 
 **Pro Git**
