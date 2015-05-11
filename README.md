@@ -12,8 +12,9 @@ Note: :book: stands for the online book page and :octocat: stands for the GitHub
 
 Contributions welcome. Anything missing? Send in a pull request. Thanks.
 
+## Book Examples
 
-## "Hand-Written" Book Examples
+### "Hand-Written" Book Examples
 
 - [PHP: The Right Way :book:](http://www.phptherightway.com) - [:octocat:](https://github.com/codeguy/php-the-right-way) by Josh Lockhart, Phil Sturgeon
 - [The Front-End Tooling Book :book:](http://tooling.github.io/book-of-modern-frontend-tooling) - [:octocat:](https://github.com/tooling/book-of-modern-frontend-tooling) by Addy Osmani et al
@@ -41,11 +42,24 @@ Contributions welcome. Anything missing? Send in a pull request. Thanks.
 
 
 
-## Open Data "Auto-Build" Book Examples
+### Open Data "Auto-Build" Book Examples
 
 - [The Free World Beer Book :book:](http://openbeer.github.io/book) - [:octocat:](https://github.com/openbeer/book), [Templates :octocat:](https://github.com/book-templates/beer) - work-in-progress; auto-build using the beer.db and markdown templates w/ a static site generator
 - [The Free World Football Almanac :book:](http://openfootball.github.io/book) - [:octocat:](https://github.com/openfootball/book), [Templates :octocat:](https://github.com/book-templates/football)  - work-in-progress; auto-build using the football.db and markdown templates w/ a static site generator
      
+
+
+## Book Projects
+
+### Project Gutenberg (PG)
+
+- [gutenberg.org](http://www.gutenberg.org) - 40 000+ books in plain text (classics incl. William Shakespeare, Charles Dickens, Franz Kafka, and many more)
+   - [Article: Project Gutenberg @ Wikipedia](http://en.wikipedia.org/wiki/Project_Gutenberg)
+
+More
+
+- [Project GITenberg :octocat:](https://github.com/GITenberg)
+
 
 ## Meta
 
