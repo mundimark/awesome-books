@@ -60,15 +60,22 @@ More
 
 - [Project GITenberg :octocat:](https://github.com/GITenberg)
 
-### Wikibooks
+
+### Wikpedia Book Projects
+
+Wikisource
+
+- [wikisource.org](http://www.wikisource.org) - the free library that anyone can improve; 300 000+ texts in English
+   - [Article: Wikisource @ Wikipedia](http://en.wikipedia.org/wiki/Wikisource)
+
+Wikibooks
 
 - [wikibooks.org](http://www.wikibooks.org) - open textbooks (50 000+ pages in english) in wiki markup 
+    - [Article: Wikibooks @ Wikipedia](http://en.wikipedia.org/wiki/Wikibooks)
 
-### Wikipedia
+Wikipedia
 
 - [Wikipedia Help: Books](http://en.wikipedia.org/wiki/Help:Books) - turn wikipedia pages into books; help for creating books 
-
-
 
 
 ## Meta
