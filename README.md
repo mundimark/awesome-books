@@ -76,6 +76,7 @@ Wikibooks
 Wikipedia
 
 - [Wikipedia Help: Books](http://en.wikipedia.org/wiki/Help:Books) - turn wikipedia pages into books; help for creating books 
+- [Wikipedia Help: Books/FAQ](http://en.wikipedia.org/wiki/Help:Books/FAQ) - frequently asked questions (and answers)
 
 
 ## Meta
