@@ -60,6 +60,16 @@ More
 
 - [Project GITenberg :octocat:](https://github.com/GITenberg)
 
+### Wikibooks
+
+- [wikibooks.org](http://www.wikibooks.org) - open textbooks (50 000+ pages in english) in wiki markup 
+
+### Wikipedia
+
+- [Wikipedia Help: Books](http://en.wikipedia.org/wiki/Help:Books) - turn wikipedia pages into books; help for creating books 
+
+
+
 
 ## Meta
 
