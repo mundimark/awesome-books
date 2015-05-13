@@ -47,6 +47,9 @@ Contributions welcome. Anything missing? Send in a pull request. Thanks.
 - [The Free World Beer Book :book:](http://openbeer.github.io/book) - [:octocat:](https://github.com/openbeer/book), [Templates :octocat:](https://github.com/book-templates/beer) - work-in-progress; auto-build using the beer.db and markdown templates w/ a static site generator
 - [The Free World Football Almanac :book:](http://openfootball.github.io/book) - [:octocat:](https://github.com/openfootball/book), [Templates :octocat:](https://github.com/book-templates/football)  - work-in-progress; auto-build using the football.db and markdown templates w/ a static site generator
      
+### (World Literature) Classics 
+
+- [The Trial :octocat:](https://github.com/writekit/classics--the-trial) by Franz Kafka
 
 
 ## Book Projects
