@@ -49,7 +49,8 @@ Contributions welcome. Anything missing? Send in a pull request. Thanks.
      
 ### (World Literature) Classics 
 
-- [The Trial :octocat:](https://github.com/writekit/classics--the-trial) by Franz Kafka
+- **The Trial** (github: [writekit/classics--the-trial](https://github.com/writekit/classics--the-trial) by Franz Kafka
+- **Dr. Jekyll and Mr. Hyde** (github: [writekit/classics--dr-jekyll-and-mr-hyde](https://github.com/writekit/classics--dr-jekyll-and-mr-hyde) [:book:](http://drjekyllthemes.github.io/jekyll-book-theme/)) by Robert Louis Stevenson
 
 
 ## Book Projects
