@@ -10,15 +10,16 @@ Note: :book: stands for the online book page and :octocat: stands for the GitHub
 
 ---
 
-Contributions welcome. Anything missing? Send in a pull request. Thanks.
+#### _Contributions welcome. Anything missing? Send in a pull request. Thanks._
+
 
 ## Book Examples
 
 ### "Hand-Written" Book Examples
 
-- **PHP: The Right Way** (web: [phptherightway.com :book:](http://www.phptherightway.com),  github: [codeguy/php-the-right-way](https://github.com/codeguy/php-the-right-way)) - by Josh Lockhart, Phil Sturgeon
-- **The Front-End Tooling Book** ([:book:](http://tooling.github.io/book-of-modern-frontend-tooling), github:  [tooling/book-of-modern-frontend-tooling](https://github.com/tooling/book-of-modern-frontend-tooling)) - by Addy Osmani et al
-- **Go Bootcamp** (web: [golangbootcamp.com/book :book:](http://www.golangbootcamp.com/book),  github: [github.com/GoBootcamp/book](https://github.com/GoBootcamp/book)) - by Matt Aimonetti
+- **PHP: The Right Way** (web: [phptherightway.com :book:](http://www.phptherightway.com),  github: [codeguy/php-the-right-way](https://github.com/codeguy/php-the-right-way)) by Josh Lockhart, Phil Sturgeon
+- **The Front-End Tooling Book** ([:book:](http://tooling.github.io/book-of-modern-frontend-tooling), github:  [tooling/book-of-modern-frontend-tooling](https://github.com/tooling/book-of-modern-frontend-tooling)) by Addy Osmani et al
+- **Go Bootcamp** (web: [golangbootcamp.com/book :book:](http://www.golangbootcamp.com/book),  github: [github.com/GoBootcamp/book](https://github.com/GoBootcamp/book)) by Matt Aimonetti
 - [Learn you an Agda (and Achieve Enlightenment) :book:](http://learnyouanagda.liamoc.net) - [:octocat:](https://github.com/liamoc/learn-you-an-agda) by Liam O'Connor
 - [You Don't Know JS (Book Series) :octocat:](https://github.com/getify/You-Dont-Know-JS) by Kyle Simpson
     - [Up & Going :book:](https://github.com/getify/You-Dont-Know-JS/blob/master/up%20&%20going/README.md)
@@ -49,8 +50,8 @@ Contributions welcome. Anything missing? Send in a pull request. Thanks.
      
 ### (World Literature) Classics 
 
-- **The Trial** (github: [writekit/classics--the-trial](https://github.com/writekit/classics--the-trial) - by Franz Kafka
-- **Dr. Jekyll and Mr. Hyde** ([:book:](http://drjekyllthemes.github.io/jekyll-book-theme/), github: [writekit/classics--dr-jekyll-and-mr-hyde](https://github.com/writekit/classics--dr-jekyll-and-mr-hyde) ) - by Robert Louis Stevenson
+- **The Trial** (github: [writekit/classics--the-trial](https://github.com/writekit/classics--the-trial)) by Franz Kafka
+- **Dr. Jekyll and Mr. Hyde** ([:book:](http://drjekyllthemes.github.io/jekyll-book-theme/), github: [writekit/classics--dr-jekyll-and-mr-hyde](https://github.com/writekit/classics--dr-jekyll-and-mr-hyde)) by Robert Louis Stevenson
 
 
 ## Book Projects
